@@ -1,6 +1,4 @@
-Perfect! Here's a professional README with badges for your GitHub repo:
 
-```markdown
 # 🚇 AI for Sustainable Cities: Optimizing Public Transport with ML
 
 [![SDG 11](https://img.shields.io/badge/UN_SDG-11_Sustainable_Cities-0A96D1?style=for-the-badge&logo=un&logoColor=white)](https://sdgs.un.org/goals/goal11)
@@ -119,15 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ for sustainable urban development** | *Contributions welcome!*
-```
 
-This README features:
-- **Eye-catching badges** for SDG, tech stack, and license
-- **Clear problem statement** with SDG context
-- **Visual project structure**
-- **Quick start guide** for developers
-- **Impact focus** for urban planners
-- **Ethical considerations** section
-- **Professional formatting** with emojis and tables
-
-Ready to create the presentation outline?
