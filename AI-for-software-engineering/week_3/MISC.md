@@ -3,8 +3,6 @@
 ### Error 1: Dimension Mismatch in CNN
 **Problem**: `Input 0 of layer "conv2d" is incompatible with the layer`
 **Solution**: 
-```python
-# Ensure proper input shape
 x_train = x_train.reshape(-1, 28, 28, 1)  # Add channel dimension
 
 # For multi-class (10 digits)
@@ -26,16 +24,3 @@ early_stopping = tf.keras.callbacks.EarlyStopping(patience=3)
 - [ ] Comprehensive ethics analysis completed
 - [ ] All screenshots taken for final report
 
-### **Expected spaCy Results:**
-You should see entities like:
-- `Apple` → ORG
-- `iPhone` → PRODUCT  
-- `Samsung` → ORG
-- `MacBook Pro` → PRODUCT
-
-### **Pro Tips:**
-- If the Kaggle dataset is large, just use 50-100 reviews for demonstration
-- The rule-based sentiment will be basic but functional - that's expected!
-- Focus on clear, interpretable outputs for your report
-
-You're on the final stretch! Day 3 combines the last major technical task with the important ethical reflection. Ready to become an NLP expert? 🚀
